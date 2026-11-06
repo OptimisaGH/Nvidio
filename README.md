@@ -32,11 +32,8 @@ The Software is built for Nvidia GPUs. We do not provide "patches" or fixes to u
 
 # Distribution & Legal License
 
-- Copyright © 2026 Nvidio Project. All Rights Reserved
-- This software is distributed strictly as a closed-source, proprietary utility.
-- **No Modifications:** Cloning, copying, modifying, forking, or reverse-engineering the compiled binaries or software infrastructure is strictly prohibited
-- **Official Distribution Only:** This software must only be downloaded via the official GitHub Releases page hosted by the primary author. Third-party mirrors, re-uploads, or external distribution links are completely unauthorized.
-- 
+Nothing here. It's open source!
+ 
 ## 🤝 Support & Bug Tracking
 
 If you run into any calibration bugs, display handshaking issues, or performance drops:
