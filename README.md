@@ -32,7 +32,11 @@ The Software is built for Nvidia GPUs. We do not provide "patches" or fixes to u
 
 # Distribution & Legal License
 
-Nothing here. It's open source!
+   # License
+   Nvidio is source-available, licensed under the
+   [PolyForm Noncommercial License 1.0.0](LICENSE).
+   You may use and modify it for noncommercial purposes.
+   Commercial use, including selling it, is not permitted.
  
 ## 🤝 Support & Bug Tracking
 
