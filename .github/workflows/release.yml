@@ -13,7 +13,7 @@ jobs:
       - uses: actions/setup-go@v5
         with:
           go-version: "1.22"
-      - run: ./build-windows.sh
+      - run: GOOS=windows GOARCH=amd64 CGO_ENABLED=0 go build -trimpath -ldflags "-H=windowsgui -s -w" -o Nvidio.exe .
       - uses: actions/upload-artifact@v4
         with:
           name: Nvidio
