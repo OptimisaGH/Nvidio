@@ -30,8 +30,6 @@ The Software is built for Nvidia GPUs. We do not provide "patches" or fixes to u
 3. Launch the software and follow on-screen instructions.
 4. Restart your system to allow the drivers to initialise.
 
-# Distribution & Legal License
-
    # License
    Nvidio is source-available, licensed under the
    [PolyForm Noncommercial License 1.0.0](LICENSE).
