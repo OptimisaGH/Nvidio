@@ -1,43 +1,52 @@
 # Nvidio
 
-Nvidio is a optimisation software for boosting frames on older Nvidia devices all while lowering temperatures. Efficient and powerful.
-The Software is built for Nvidia GPUs. We do not provide "patches" or fixes to unsupported GPUs, like Intel, AMD or Apple Silicon.
+Nvidio is a lightweight optimisation utility for NVIDIA GeForce GTX 950 and newer graphics cards on Windows. It shows live GPU stats, lets you lower heat and noise with power-limit profiles, and applies a few Windows settings that help games run smoothly. Every change can be undone.
+
+Built for NVIDIA GPUs only. Intel, AMD and Apple Silicon graphics are not supported.
 
 # Features
 
-- **Instant Frame Rate Boosts**: Realtime Optimisation Hooks designed to accelerate performance on older cards.
-- **Thermal Mitigation Engine**: Hardware Load Management to reduce core temperatures under heavy load.
-- **System-wide Compatibility**: Global optimisations that apply to all games, OS rendering and other apps.
-- **No Bloatware Footprint**: Our software is heavily coded to not feel like bloat, taxing nearly zero resources.
+- **Live GPU monitor**: temperature, load, power draw, core clock, fan speed and VRAM use.
+- **Thermal profiles**: Performance (stock), Balanced (90% power limit) and Cool & quiet (80%) to reduce heat and noise.
+- **Windows optimisations**: High performance power plan, Game Mode, background game capture off, lighter desktop compositing, and hardware GPU scheduling (GTX 10-series or newer, restart required).
+- **Fully reversible**: every change is recorded and can be undone with one click.
+- **Lightweight**: no background service and no startup entry. Nvidio closes when you close its window.
+
+Results vary by system and game. Cooler temperatures are the most consistent benefit. Frame rate gains are usually modest and depend on what is holding your system back.
+
 # System Requirements
 
 **Minimum**
-
-- An Nvidia Graphics Card (GeForce GTX 950 or later).
-- A Hard Disk Drive with at least 10GB.
-- Windows 10 Home Operating System (64-bit)
+- NVIDIA GeForce GTX 950 or newer, with the NVIDIA driver installed
+- Windows 10 (64-bit)
+- Microsoft Edge or Google Chrome (used to display the window)
+- Administrator rights (Nvidio asks when it starts)
 
 **Recommended**
-  
-- An Nvidia Graphics Card (GeForce GTX 1650 or later).
-- A Solid State Drive with at least 10GB
-- Windows 11 Home Operating System (64-bit)
+- NVIDIA GeForce GTX 1650 or newer
+- Windows 11 (64-bit)
+
+The download is only a few MB.
 
 # Installation
 
-1. Navigate to the `Releases` Tab on the right side of the page.
-2. Download the latest Nvidio release `.exe` file listed.
-3. Launch the software and follow on-screen instructions.
-4. Restart your system to allow the drivers to initialise.
+1. Open the **Releases** tab on the right side of this page.
+2. Download `Nvidio.exe` from the latest release.
+3. Run it and click **Yes** on the administrator prompt. If Windows shows "Windows protected your PC", click **More info**, then **Run anyway**. The file is not code-signed yet.
+4. Pick a thermal profile and turn on the optimisations you want. Restart Windows only if Nvidio tells you to.
 
-   # License
-   Nvidio is source-available, licensed under the
-   [PolyForm Noncommercial License 1.0.0](LICENSE).
-   You may use and modify it for noncommercial purposes.
-   Commercial use, including selling it, is not permitted.
- 
-## 🤝 Support & Bug Tracking
+# Known limitations
 
-If you run into any calibration bugs, display handshaking issues, or performance drops:
-* Navigate to the **Issues** tab at the top of this repository.
-* Open a new ticket describing your GPU model, OS version, and the specific behavior you observed.
+- Power limit changes reset when you restart your PC.
+- Some laptop and older GPUs don't allow power limit changes. Nvidio shows the driver's error if so.
+
+# License
+
+Nvidio is source-available, licensed under the [PolyForm Noncommercial License 1.0.0](https://github.com/OptimisaGH/Nvidio/blob/main/LICENSE). You may use and modify it for noncommercial purposes. Commercial use, including selling it, is not permitted.
+
+# Support & Bug Tracking
+
+If something doesn't work:
+
+- Open the **Issues** tab at the top of this repository.
+- Open a new ticket with your GPU model, Windows version, and what you saw.
