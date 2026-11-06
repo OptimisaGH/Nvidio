@@ -4,6 +4,8 @@ Nvidio is a lightweight optimisation utility for NVIDIA GeForce GTX 950 and newe
 
 Built for NVIDIA GPUs only. Intel, AMD and Apple Silicon graphics are not supported.
 
+[![Download Nvidio](https://img.shields.io/badge/Download-Nvidio-76b900?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/OptimisaGH/Nvidio/releases)
+
 # Features
 
 - **Live GPU monitor**: temperature, load, power draw, core clock, fan speed and VRAM use.
