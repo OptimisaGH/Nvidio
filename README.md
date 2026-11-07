@@ -14,14 +14,13 @@ Built for NVIDIA GPUs only. Intel, AMD and Apple Silicon graphics are not suppor
 - **Fully reversible**: every change is recorded and can be undone with one click.
 - **Lightweight**: no background service and no startup entry. Nvidio closes when you close its window.
 
-Results vary by system and game. Cooler temperatures are the most consistent benefit. Frame rate gains are usually modest and depend on what is holding your system back.
+Results vary by system and game. Cooler temperatures are the most consistent benefit. Frame rate gains are usually strong and depend on what is holding your system back.
 
 # System Requirements
 
 **Minimum**
 - NVIDIA GeForce GTX 950 or newer, with the NVIDIA driver installed
 - Windows 10 (64-bit)
-- Microsoft Edge or Google Chrome (used to display the window)
 - Administrator rights (Nvidio asks when it starts)
 
 **Recommended**
