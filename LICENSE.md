@@ -1,4 +1,4 @@
-   Required Notice: Copyright 2026 OptimisaGH (https://github.com/OptimisaGH/Nvidio)
+
 # PolyForm Noncommercial License 1.0.0
 
 <https://polyformproject.org/licenses/noncommercial/1.0.0>
@@ -36,7 +36,7 @@ URL for them above, as well as copies of any plain-text lines
 beginning with `Required Notice:` that the licensor provided
 with the software.  For example:
 
-> Required Notice: Copyright Yoyodyne, Inc. (http://example.com)
+> Required Notice: Copyright 2026 OptimisaGH. (github.com/OptimisaGH/Nvidio)
 
 ## Changes and New Works License
 
