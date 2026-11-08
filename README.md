@@ -1,10 +1,4 @@
 > [!CAUTION]
-> **NOTICE: Due to certain trouble with the source code, we won't be able to supply an update to the source code for the next 1 or 2 updates. Thanks, Nvidio Team.**
-
-> [!CAUTION]
-> **NOTICE: A huge amount of data was lost in our local volume, and we lost hours of code on Version 1.1 alpha and hours of concepts for what 1.1 release could be. We unfortunately had to delay the next 2 updates.**
-
-> [!CAUTION]
 > **NOTICE: This repository is soon to become closed-source and proprietary software (All Rights Reserved). If you'd like, you can backup the source code now. Thanks, Nvidio Team.** 
 
 # Nvidio
