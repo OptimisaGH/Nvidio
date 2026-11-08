@@ -4,6 +4,9 @@
 > [!CAUTION]
 > **NOTICE: A huge amount of data was lost in our local volume, and we lost hours of code on Version 1.1 alpha and hours of concepts for what 1.1 release could be. We unfortunately had to delay the next 2 updates.**
 
+> [!CAUTION]
+> **NOTICE: This repository is soon to become closed-source and proprietary software (All Rights Reserved). If you'd like, you can backup the source code now. Thanks, Nvidio Team.** 
+
 # Nvidio
 
 Nvidio is a lightweight optimisation utility for NVIDIA GeForce GTX 950 and newer graphics cards on Windows. It shows live GPU stats, lets you lower heat and noise with power-limit profiles, and applies a few Windows settings that help games run smoothly. Every change can be undone.
