@@ -1,5 +1,5 @@
 > [!CAUTION]
-> **NOTICE: Forking this repository is not allowed under any circumstance. The repository was recently changed to ARR (All Rights Reserved)** 
+> **NOTICE: Forking this repository to post it onto GitHub or any other external site is not allowed under any circumstance. The repository was recently changed to ARR (All Rights Reserved)** 
 
 # Nvidio
 
