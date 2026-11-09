@@ -1,5 +1,5 @@
 > [!CAUTION]
-> **NOTICE: This repository is soon to become closed-source and proprietary software (All Rights Reserved). If you'd like, you can backup the source code now. Thanks, Nvidio Team.** 
+> **NOTICE: The Repository was recently changed to All Rights Reserved.** 
 
 # Nvidio
 
