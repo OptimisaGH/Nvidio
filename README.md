@@ -1,5 +1,5 @@
 > [!CAUTION]
-> **NOTICE: The Repository was recently changed to All Rights Reserved.** 
+> **NOTICE: Forking this repository is not allowed under any circumstance. The repository was recently changed to ARR (All Rights Reserved)** 
 
 # Nvidio
 
